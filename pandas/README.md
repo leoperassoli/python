@@ -7,4 +7,4 @@ os novos recursos também otimizam a execução, pois vetorizam o codigo, ou sej
 
 os arquivos dessa pasta são os resumos sobre os tópicos de pandas e algumas aplicações que fiz para praticar.
 
-[curiosidade](facebook.com): o termo *pandas* deriva de *panel data*, que significa um conjunto de dados, de diversas fontes, ao longo do tempo.
+curiosidade: o termo *pandas* deriva de *panel data*, que significa um conjunto de dados, de diversas fontes, ao longo do tempo.
